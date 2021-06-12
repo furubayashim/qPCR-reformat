@@ -1,0 +1,77 @@
+File Name	Analysis Name	Plate Id	Position	Sample Name	Gene Name	Cq	Concentration	Call	Excluded	Sample Type	Standard	Cq Mean	Cq Error	Concentration Mean	Concentration Error	Replicate Group	Dye	Edited Call	Slope	EPF	Failure	Notes	Sample Prep Notes	Number
+20210611-MF.lc96p	Abs Quant		A1	Sample 1	plasmid	13.92	26725075.9920297	Positive	Unchecked	Unknown		13.92	0	26725075.9920297	0		SYBR Green I	Unchecked	0.3881	2.02795711065434	None			1
+20210611-MF.lc96p	Abs Quant		A2	Sample 2	plasmid	13.99	25474465.7175141	Positive	Unchecked	Unknown		13.99	0	25474465.7175141	0		SYBR Green I	Unchecked	0.3957	2.05281293077221	None			2
+20210611-MF.lc96p	Abs Quant		A3	Sample 3	plasmid	12.66	63324024.9401058	Positive	Unchecked	Unknown		12.66	0	63324024.9401058	0		SYBR Green I	Unchecked	0.3735	1.94960336799474	None			3
+20210611-MF.lc96p	Abs Quant		A4	Sample 4	plasmid	12.81	57143570.4969313	Positive	Unchecked	Unknown		12.81	0	57143570.4969313	0		SYBR Green I	Unchecked	0.3476	1.86935422292294	None			4
+20210611-MF.lc96p	Abs Quant		A5	Sample 5	plasmid	8.31	1244518980.70015	Positive	Unchecked	Standard	1760000000	8.31	0	1244518980.70015	0		SYBR Green I	Unchecked	0.2227	1.31290868373863	None			5
+20210611-MF.lc96p	Abs Quant		A7	Sample 7	genome	14.31	3660433.56109794	Positive	Unchecked	Unknown		14.31	0	3660433.56109794	0		SYBR Green I	Unchecked	0.4651	2.52313367828749	None			6
+20210611-MF.lc96p	Abs Quant		A8	Sample 8	genome	14.35	3565479.42134468	Positive	Unchecked	Unknown		14.35	0	3565479.42134468	0		SYBR Green I	Unchecked	0.5411	2.75589957634881	None			7
+20210611-MF.lc96p	Abs Quant		A9	Sample 9	genome	14.34	3588984.50062083	Positive	Unchecked	Unknown		14.34	0	3588984.50062083	0		SYBR Green I	Unchecked	0.5178	2.6546171856855	None			8
+20210611-MF.lc96p	Abs Quant		A10	Sample 10	genome	14.58	3065377.86146253	Positive	Unchecked	Unknown		14.58	0	3065377.86146253	0		SYBR Green I	Unchecked	0.4474	2.44251003381221	None			9
+20210611-MF.lc96p	Abs Quant		A11	Sample 11	genome	12.41	12756330.4596704	Positive	Unchecked	Standard	16400000	12.41	0	12756330.4596704	0		SYBR Green I	Unchecked	0.9277	3.70873120853567	None			10
+20210611-MF.lc96p	Abs Quant		B1	Sample 13	plasmid	14.07	24116696.0791082	Positive	Unchecked	Unknown		14.07	0	24116696.0791082	0		SYBR Green I	Unchecked	0.4237	2.13762809251458	None			11
+20210611-MF.lc96p	Abs Quant		B2	Sample 14	plasmid	13.88	27467085.8984878	Positive	Unchecked	Unknown		13.88	0	27467085.8984878	0		SYBR Green I	Unchecked	0.4133	2.08587051218735	None			12
+20210611-MF.lc96p	Abs Quant		B3	Sample 15	plasmid	6.89	3290225278.6871	Positive	Unchecked	Unknown		6.89	0	3290225278.6871	0		SYBR Green I	Unchecked	0.3762	2.01473893972998	None			13
+20210611-MF.lc96p	Abs Quant		B4	Sample 16	plasmid	6.24	5134489078.40035	Positive	Unchecked	Unknown		6.24	0	5134489078.40035	0		SYBR Green I	Unchecked	0.3613	1.96480066824316	None			14
+20210611-MF.lc96p	Abs Quant		B5	Sample 17	plasmid	10.78	229387340.248498	Positive	Unchecked	Standard	176000000	10.78	0	229387340.248498	0		SYBR Green I	Unchecked	0.5321	2.78062940049532	None			15
+20210611-MF.lc96p	Abs Quant		B7	Sample 19	genome	14.02	4428823.14216024	Positive	Unchecked	Unknown		14.02	0	4428823.14216024	0		SYBR Green I	Unchecked	0.4895	2.62719829035469	None			16
+20210611-MF.lc96p	Abs Quant		B8	Sample 20	genome	14.04	4371002.3562379	Positive	Unchecked	Unknown		14.04	0	4371002.3562379	0		SYBR Green I	Unchecked	0.5319	2.73784663496319	None			17
+20210611-MF.lc96p	Abs Quant		B9	Sample 21	genome	15.55	1620615.9279186	Positive	Unchecked	Unknown		15.55	0	1620615.9279186	0		SYBR Green I	Unchecked	0.5316	2.73615129535994	None			18
+20210611-MF.lc96p	Abs Quant		B10	Sample 22	genome	15.88	1304697.10697879	Positive	Unchecked	Unknown		15.88	0	1304697.10697879	0		SYBR Green I	Unchecked	0.4999	2.64964470501046	None			19
+20210611-MF.lc96p	Abs Quant		B11	Sample 23	genome	15.43	1753573.14588922	Positive	Unchecked	Standard	1640000	15.43	0	1753573.14588922	0		SYBR Green I	Unchecked	1.0665	4.09188459349553	None			20
+20210611-MF.lc96p	Abs Quant		C1	Sample 25	plasmid	13.05	48484793.6333065	Positive	Unchecked	Unknown		13.05	0	48484793.6333065	0		SYBR Green I	Unchecked	0.3876	1.99986246691788	None			21
+20210611-MF.lc96p	Abs Quant		C2	Sample 26	plasmid	13.28	41420671.8799411	Positive	Unchecked	Unknown		13.28	0	41420671.8799411	0		SYBR Green I	Unchecked	0.4004	2.0457296476605	None			22
+20210611-MF.lc96p	Abs Quant		C3	Sample 27	plasmid	6.05	5847793250.72812	Positive	Unchecked	Unknown		6.05	0	5847793250.72812	0		SYBR Green I	Unchecked	0.4039	2.11790097958515	None			23
+20210611-MF.lc96p	Abs Quant		C4	Sample 28	plasmid	6.03	5928418149.21875	Positive	Unchecked	Unknown		6.03	0	5928418149.21875	0		SYBR Green I	Unchecked	0.3839	2.03396124028767	None			24
+20210611-MF.lc96p	Abs Quant		C5	Sample 29	plasmid	14.32	20322754.9143825	Positive	Unchecked	Standard	17600000	14.32	0	20322754.9143825	0		SYBR Green I	Unchecked	0.5678	2.58166562322442	None			25
+20210611-MF.lc96p	Abs Quant		C7	Sample 31	genome	13.93	4698629.21962066	Positive	Unchecked	Unknown		13.93	0	4698629.21962066	0		SYBR Green I	Unchecked	0.4732	2.54873897817023	None			26
+20210611-MF.lc96p	Abs Quant		C8	Sample 32	genome	14.15	4066220.31771636	Positive	Unchecked	Unknown		14.15	0	4066220.31771636	0		SYBR Green I	Unchecked	0.5187	2.67342895532924	None			27
+20210611-MF.lc96p	Abs Quant		C9	Sample 33	genome	15.65	1517552.12448797	Positive	Unchecked	Unknown		15.65	0	1517552.12448797	0		SYBR Green I	Unchecked	0.6056	2.98079417420265	None			28
+20210611-MF.lc96p	Abs Quant		C10	Sample 34	genome	15.64	1527556.4405354	Positive	Unchecked	Unknown		15.64	0	1527556.4405354	0		SYBR Green I	Unchecked	0.5707	2.87772607261555	None			29
+20210611-MF.lc96p	Abs Quant		C11	Sample 35	genome	18.77	195346.329713932	Positive	Unchecked	Standard	164000	18.77	0	195346.329713932	0		SYBR Green I	Unchecked	1.0827	4.09696955694397	None			30
+20210611-MF.lc96p	Abs Quant		D1	Sample 37	plasmid	8.81	883753330.137749	Positive	Unchecked	Unknown		8.81	0	883753330.137749	0		SYBR Green I	Unchecked	0.4477	2.26701057214574	None			31
+20210611-MF.lc96p	Abs Quant		D2	Sample 38	plasmid	8.85	859879165.683209	Positive	Unchecked	Unknown		8.85	0	859879165.683209	0		SYBR Green I	Unchecked	0.4191	2.14683344625955	None			32
+20210611-MF.lc96p	Abs Quant		D3	Sample 39	plasmid	9.64	500654469.43128	Positive	Unchecked	Unknown		9.64	0	500654469.43128	0		SYBR Green I	Unchecked	0.4554	2.26333832429259	None			33
+20210611-MF.lc96p	Abs Quant		D4	Sample 40	plasmid	9.68	487129533.535151	Positive	Unchecked	Unknown		9.68	0	487129533.535151	0		SYBR Green I	Unchecked	0.4257	2.18085979159615	None			34
+20210611-MF.lc96p	Abs Quant		D5	Sample 41	plasmid	17.77	1914945.40493752	Positive	Unchecked	Standard	1760000	17.77	0	1914945.40493752	0		SYBR Green I	Unchecked	0.5744	2.60732125048572	None			35
+20210611-MF.lc96p	Abs Quant		D7	Sample 43	genome	14.37	3518930.07500265	Positive	Unchecked	Unknown		14.37	0	3518930.07500265	0		SYBR Green I	Unchecked	0.538	2.75673186243407	None			36
+20210611-MF.lc96p	Abs Quant		D8	Sample 44	genome	14.39	3472988.45665137	Positive	Unchecked	Unknown		14.39	0	3472988.45665137	0		SYBR Green I	Unchecked	0.6232	3.03403501801808	None			37
+20210611-MF.lc96p	Abs Quant		D9	Sample 45	genome	16.12	1114351.32332145	Positive	Unchecked	Unknown		16.12	0	1114351.32332145	0		SYBR Green I	Unchecked	0.684	3.20452892215868	None			38
+20210611-MF.lc96p	Abs Quant		D10	Sample 46	genome	16.59	818277.574621859	Positive	Unchecked	Unknown		16.59	0	818277.574621859	0		SYBR Green I	Unchecked	0.6393	3.1108179895998	None			39
+20210611-MF.lc96p	Abs Quant		D11	Sample 47	genome	22.12	21618.869352827	Positive	Unchecked	Standard	16400	22.12	0	21618.869352827	0		SYBR Green I	Unchecked	1.0309	3.91744278378867	None			40
+20210611-MF.lc96p	Abs Quant		E1	Sample 49	plasmid	8.58	1034473751.62513	Positive	Unchecked	Unknown		8.58	0	1034473751.62513	0		SYBR Green I	Unchecked	0.4412	2.22507024571026	None			41
+20210611-MF.lc96p	Abs Quant		E2	Sample 50	plasmid	8.7	952880774.856812	Positive	Unchecked	Unknown		8.7	0	952880774.856812	0		SYBR Green I	Unchecked	0.4333	2.2040557072302	None			42
+20210611-MF.lc96p	Abs Quant		E3	Sample 51	plasmid	11.97	101562585.406858	Positive	Unchecked	Unknown		11.97	0	101562585.406858	0		SYBR Green I	Unchecked	0.3953	2.08747506536342	None			43
+20210611-MF.lc96p	Abs Quant		E4	Sample 52	plasmid	12.13	91024688.2619702	Positive	Unchecked	Unknown		12.13	0	91024688.2619702	0		SYBR Green I	Unchecked	0.3746	1.99523023432437	None			44
+20210611-MF.lc96p	Abs Quant		E5	Sample 53	plasmid	21.15	189297.151279165	Positive	Unchecked	Standard	176000	21.15	0	189297.151279165	0		SYBR Green I	Unchecked	0.4297	2.09333497274268	None			45
+20210611-MF.lc96p	Abs Quant		E7	Sample 55	genome	14.37	3518930.07500265	Positive	Unchecked	Unknown		14.37	0	3518930.07500265	0		SYBR Green I	Unchecked	0.5935	2.94262050368819	None			46
+20210611-MF.lc96p	Abs Quant		E8	Sample 56	genome	14.36	3542128.28220165	Positive	Unchecked	Unknown		14.36	0	3542128.28220165	0		SYBR Green I	Unchecked	0.6062	2.99921700548136	None			47
+20210611-MF.lc96p	Abs Quant		E9	Sample 57	genome	14.13	4120009.36547749	Positive	Unchecked	Unknown		14.13	0	4120009.36547749	0		SYBR Green I	Unchecked	0.5918	2.93399993763342	None			48
+20210611-MF.lc96p	Abs Quant		E10	Sample 58	genome	14.41	3427646.63205892	Positive	Unchecked	Unknown		14.41	0	3427646.63205892	0		SYBR Green I	Unchecked	0.3881	2.24799581897657	None			49
+20210611-MF.lc96p	Abs Quant		E11	Sample 59	genome	26.18	1500.55406616386	Positive	Unchecked	Standard	1640	26.18	0	1500.55406616386	0		SYBR Green I	Unchecked	0.9459	3.61675733969478	None			50
+20210611-MF.lc96p	Abs Quant		F1	Sample 61	plasmid	9.3	631879129.577432	Positive	Unchecked	Unknown		9.3	0	631879129.577432	0		SYBR Green I	Unchecked	0.4013	2.08776376932792	None			51
+20210611-MF.lc96p	Abs Quant		F2	Sample 62	plasmid	9.48	558615066.767366	Positive	Unchecked	Unknown		9.48	0	558615066.767366	0		SYBR Green I	Unchecked	0.3948	2.04940598357402	None			52
+20210611-MF.lc96p	Abs Quant		F3	Sample 63	plasmid	11.83	111779323.536482	Positive	Unchecked	Unknown		11.83	0	111779323.536482	0		SYBR Green I	Unchecked	0.3441	1.88699528543977	None			53
+20210611-MF.lc96p	Abs Quant		F4	Sample 64	plasmid	12	99497809.632134	Positive	Unchecked	Unknown		12	0	99497809.632134	0		SYBR Green I	Unchecked	0.3297	1.80054778657427	None			54
+20210611-MF.lc96p	Abs Quant		F5	Sample 65	plasmid	24.94	14132.5972184738	Positive	Unchecked	Standard	17600	24.94	0	14132.5972184738	0		SYBR Green I	Unchecked	0.5466	2.42683034716952	None			55
+20210611-MF.lc96p	Abs Quant		F7	Sample 67	genome	14.27	3757916.47400926	Positive	Unchecked	Unknown		14.27	0	3757916.47400926	0		SYBR Green I	Unchecked	0.5127	2.69725172994043	None			56
+20210611-MF.lc96p	Abs Quant		F8	Sample 68	genome	14.31	3660433.56109794	Positive	Unchecked	Unknown		14.31	0	3660433.56109794	0		SYBR Green I	Unchecked	0.548	2.78436493294976	None			57
+20210611-MF.lc96p	Abs Quant		F9	Sample 69	genome	14.45	3338731.14379974	Positive	Unchecked	Unknown		14.45	0	3338731.14379974	0		SYBR Green I	Unchecked	0.5354	2.74336968347158	None			58
+20210611-MF.lc96p	Abs Quant		F10	Sample 70	genome	14.32	3636460.54560462	Positive	Unchecked	Unknown		14.32	0	3636460.54560462	0		SYBR Green I	Unchecked	0.4632	2.53637734178319	None			59
+20210611-MF.lc96p	Abs Quant		F11	Sample 71	genome	29.82	137.253541742078	Positive	Unchecked	Standard	164	29.82	0	137.253541742078	0		SYBR Green I	Unchecked	0.9544	3.66593435962801	None			60
+20210611-MF.lc96p	Abs Quant		G1	Sample 73	plasmid	8.6	1020405185.7587	Positive	Unchecked	Unknown		8.6	0	1020405185.7587	0		SYBR Green I	Unchecked	0.4122	2.13087052775457	None			61
+20210611-MF.lc96p	Abs Quant		G2	Sample 74	plasmid	8.68	966018365.81678	Positive	Unchecked	Unknown		8.68	0	966018365.81678	0		SYBR Green I	Unchecked	0.3998	2.08601637376648	None			62
+20210611-MF.lc96p	Abs Quant		G3	Sample 75	plasmid	12.34	78834733.9850637	Positive	Unchecked	Unknown		12.34	0	78834733.9850637	0		SYBR Green I	Unchecked	0.3845	2.02266314116445	None			63
+20210611-MF.lc96p	Abs Quant		G4	Sample 76	plasmid	12.32	79921646.971307	Positive	Unchecked	Unknown		12.32	0	79921646.971307	0		SYBR Green I	Unchecked	0.3283	1.75778918778439	None			64
+20210611-MF.lc96p	Abs Quant		G7	Sample 79	genome	14.65	2927578.01016206	Positive	Unchecked	Unknown		14.65	0	2927578.01016206	0		SYBR Green I	Unchecked	0.525	2.74237683605314	None			65
+20210611-MF.lc96p	Abs Quant		G8	Sample 80	genome	14.66	2908404.63306777	Positive	Unchecked	Unknown		14.66	0	2908404.63306777	0		SYBR Green I	Unchecked	0.539	2.76650193396763	None			66
+20210611-MF.lc96p	Abs Quant		G9	Sample 81	genome	14.34	3588984.50062083	Positive	Unchecked	Unknown		14.34	0	3588984.50062083	0		SYBR Green I	Unchecked	0.459	2.48519450607445	None			67
+20210611-MF.lc96p	Abs Quant		G10	Sample 82	genome	14.29	3708854.75332566	Positive	Unchecked	Unknown		14.29	0	3708854.75332566	0		SYBR Green I	Unchecked	0.4904	2.62677877232538	None			68
+20210611-MF.lc96p	Abs Quant		H1	Sample 85	plasmid	8.35	1210898908.44832	Positive	Unchecked	Unknown		8.35	0	1210898908.44832	0		SYBR Green I	Unchecked	0.3923	2.04244269872045	None			69
+20210611-MF.lc96p	Abs Quant		H2	Sample 86	plasmid	8.32	1236027448.87596	Positive	Unchecked	Unknown		8.32	0	1236027448.87596	0		SYBR Green I	Unchecked	0.393	2.05325018379237	None			70
+20210611-MF.lc96p	Abs Quant		H3	Sample 87	plasmid	9.91	416155892.591602	Positive	Unchecked	Unknown		9.91	0	416155892.591602	0		SYBR Green I	Unchecked	0.3852	2.00682913802909	None			71
+20210611-MF.lc96p	Abs Quant		H4	Sample 88	plasmid	9.76	461165900.070206	Positive	Unchecked	Unknown		9.76	0	461165900.070206	0		SYBR Green I	Unchecked	0.3551	1.91278948486058	None			72
+20210611-MF.lc96p	Abs Quant		H7	Sample 91	genome	15	2326112.824151	Positive	Unchecked	Unknown		15	0	2326112.824151	0		SYBR Green I	Unchecked	0.5219	2.68882089150061	None			73
+20210611-MF.lc96p	Abs Quant		H8	Sample 92	genome	15.05	2250932.81560499	Positive	Unchecked	Unknown		15.05	0	2250932.81560499	0		SYBR Green I	Unchecked	0.5106	2.64473770813714	None			74
+20210611-MF.lc96p	Abs Quant		H9	Sample 93	genome	14.74	2759469.759338	Positive	Unchecked	Unknown		14.74	0	2759469.759338	0		SYBR Green I	Unchecked	0.5008	2.62171179694447	None			75
+20210611-MF.lc96p	Abs Quant		H10	Sample 94	genome	14.64	2946877.78589601	Positive	Unchecked	Unknown		14.64	0	2946877.78589601	0		SYBR Green I	Unchecked	0.4918	2.59537796873641	None			76
